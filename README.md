@@ -23,6 +23,6 @@ Color:
 
 ### Polybar 
 
-- [ ]Mic volume
-- [ ]Leave some space at the bottom when windows go fullscreen
+- [ ] Mic volume
+- [ ] Leave some space at the bottom when windows go fullscreen
 
