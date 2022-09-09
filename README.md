@@ -15,9 +15,9 @@ Color:
     - [ ] Automatic Bluetooth keyboard 
 
 ### Sxhkd
-        - [x] Fix xcolor 
-        - [ ] Fix screen brightness
-        - [ ] Make shortcut for save screenshot on a folder (Now I can't choose, or I save them all or I don't save anyone)
+    - [x] Fix xcolor 
+    - [ ] Fix screen brightness
+    - [ ] Make shortcut for save screenshot on a folder (Now I can't choose, or I save them all or I don't save anyone)
 
 ### Polybar 
     - [ ]Mic volume
