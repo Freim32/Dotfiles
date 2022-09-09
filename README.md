@@ -10,16 +10,16 @@ Color:
 
 ## To Fix
 
-###General
+### General
     - [ ] Set focus on main screen when pc start
     - [ ] Automatic Bluetooth keyboard 
 
-###Sxhkd
+### Sxhkd
         - [x] Fix xcolor 
         - [ ] Fix screen brightness
         - [ ] Make shortcut for save screenshot on a folder (Now I can't choose, or I save them all or I don't save anyone)
 
-###Polybar 
+### Polybar 
     - [ ]Mic volume
     - [ ]Leave some space at the bottom when windows go fullscreen
     
