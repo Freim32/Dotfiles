@@ -7,9 +7,9 @@ killall -q polybar
 while pgrep -x polybar >/dev/null; do sleep 1; done
 
 # Launch main bar
-polybar main &
+polybar external &
 
 # Launch second bar
 if [[ $(xrandr -q | grep 'HDMI-A-0 connected') ]]; then
-    polybar external &
+    polybar main &
 fi
