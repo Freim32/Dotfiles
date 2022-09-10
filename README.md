@@ -15,6 +15,14 @@ Color:
 - [ ] Set focus on main screen when pc start
 - [ ] Automatic Bluetooth keyboard 
 
+
+### Autorandr 
+(for automatic transition when the second screen is disconnected / connected)
+
+- [x] Make it work for connection
+- [ ] Make it work for disconnection 
+    - (Temporary desktops are not removed)
+
 ### Sxhkd
 
 - [x] Fix xcolor 
