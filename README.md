@@ -26,8 +26,8 @@ Color:
 ### Sxhkd
 
 - [x] Fix xcolor 
+- [x] Make shortcut for save screenshot on a folder
 - [ ] Fix screen brightness
-- [ ] Make shortcut for save screenshot on a folder (Now I can't choose, or I save them all or I don't save anyone)
 
 ### Polybar 
 
