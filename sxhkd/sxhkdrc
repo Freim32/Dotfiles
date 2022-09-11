@@ -107,5 +107,6 @@ super + shift + s
 
 # Take a screenshot and save it
 super + s
-	~/.my_script/img_clipboard_save.sh /home/matben/Immagini/Screanshot Screanshot .png
+	~/.my_script/save_screenshot.sh /home/matben/Immagini/Screenshot Screenshot .png
+	
 	
