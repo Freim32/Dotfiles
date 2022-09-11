@@ -101,6 +101,11 @@ super + v
 super + shift + c
 	xcolor | xclip -selection clipboard
 
-# Take a screenshot
+# Take a screenshot 
 super + shift + s
 	spectacle -bcr
+
+# Take a screenshot and save it
+super + s
+	~/.my_script/img_clipboard_save.sh /home/matben/Immagini/Screanshot Screanshot .png
+	
