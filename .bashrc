@@ -143,6 +143,10 @@ if test -n "$KITTY_INSTALLATION_DIR" -a -e "$KITTY_INSTALLATION_DIR/shell-integr
 
 TERMINAL=xterm-kitty
 
+PATH="$HOME/.my_script/:${PATH}"
+export PATH
+
+
 alias meteo="wttr-in.sh"
-alias wifi="wifi.sh"
+alias wifi="nmtui"
 alias rm="rm -ri"
