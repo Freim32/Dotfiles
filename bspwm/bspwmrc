@@ -4,7 +4,7 @@ sxhkd -c ~/.config/sxhkd/sxhkdrc &
 
 bspc monitor eDP -d  I II III IV V VI VII VIII 
 
-~/.local/bin/startup
+~/.my_script/startup
 
 if [[ $(xrandr -q | grep "$internal_monitor connected") ]]; then
 xrandr --output eDP --right-of HDMI-A-0
