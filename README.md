@@ -12,9 +12,9 @@ Color:
 
 ### General
 
+- [ ] Set rounded border for windows
 - [ ] Set focus on main screen when pc start
 - [ ] Automatic Bluetooth keyboard 
-
 
 ### Autorandr 
 (for automatic transition when the second screen is disconnected / connected)
@@ -22,6 +22,10 @@ Color:
 - [x] Make it work for connection
 - [ ] Make it work for disconnection 
     - (Temporary desktops are not removed)
+
+###Bspwm
+
+- [x] Change focused window border color 
 
 ### Sxhkd
 
@@ -32,5 +36,6 @@ Color:
 ### Polybar 
 
 - [ ] Mic volume
+- [ ] Icon
 - [ ] Leave some space at the bottom when windows go fullscreen
 
