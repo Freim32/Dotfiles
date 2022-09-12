@@ -39,3 +39,6 @@ Color:
 - [ ] Icon
 - [ ] Leave some space at the bottom when windows go fullscreen
 
+### Rofi 
+
+- [ ] Set rounded border 
