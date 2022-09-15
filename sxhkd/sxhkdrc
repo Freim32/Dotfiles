@@ -54,7 +54,7 @@ super + alt + {Right,Left,Down,Up}
 
 # Brighness control
 XF86MonBrightness{Up,Down}
-	backlight{-up,-down}
+	brightnessctl -d amdgpu_bl0 set {+10%,10%-}
 	
 # Volume control
 XF86Audio{RaiseVolume,LowerVolume}
