@@ -31,7 +31,7 @@ Color:
 
 - [x] Fix xcolor 
 - [x] Make shortcut for save screenshot on a folder
-- [ ] Fix screen brightness
+- [x] Fix screen brightness
 
 ### Polybar 
 
