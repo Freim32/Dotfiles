@@ -41,4 +41,4 @@ Color:
 
 ### Rofi 
 
-- [ ] Set rounded border 
+- [x] Set rounded border 
