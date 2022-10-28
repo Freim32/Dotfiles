@@ -12,6 +12,7 @@ Color:
 
 ### General
 
+- [x] Fix Screean Tearing (insert dotfile)
 - [ ] Set rounded border for windows
 - [ ] Set focus on main screen when pc start
 - [ ] Automatic Bluetooth keyboard 
